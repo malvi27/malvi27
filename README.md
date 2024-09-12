@@ -11,8 +11,9 @@ A brief introduction about yourself.
   <!-- Add more tools and languages as needed -->
   <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" width="40" height="40"/> </a>
   <a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40" height="40"/> </a>
-<a href="https://github.com/numpy/numpy" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/numpy.png" alt="NumPy" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40" height="40"/> <a href="https://github.com/your-username" target="_blank"> 
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" width="40" height="40"/> 
+  </a>
 </p>
 
 

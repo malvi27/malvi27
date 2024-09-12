@@ -11,14 +11,6 @@ A brief introduction about yourself.
   <!-- Add more tools and languages as needed -->
 </p>
 
-## GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="your-username's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="your-username's GitHub streak" />
-</p>
 
 
 <!---

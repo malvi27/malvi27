@@ -12,7 +12,7 @@ A brief introduction about yourself.
   <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" width="40" height="40"/> </a>
   <a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40" height="40"/> </a>
-  <a href="https://numpy.org/" target="_blank"> <img src="[https://img.icons8.com/fluency/48/000000/numpy.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dnumpy&psig=AOvVaw1YzfkaxG9S4jCHGlxMcw0x&ust=1726233385031000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDs39C-vYgDFQAAAAAdAAAAABAE)" alt="NumPy" width="40" height="40"/> </a>
+<a href="https://github.com/numpy/numpy" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/numpy.png" alt="NumPy" width="40" height="40"/> </a>
 </p>
 
 

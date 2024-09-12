@@ -1,9 +1,8 @@
 # Hi there 👋, I'm Malvika.
 - :star: I am a pre-final year student at Graphic Era University.
 - :seedling: Learning Kotlin and Machine Learning
-- :man_technologist: All my projects are available below in the profile.
-- [Visit GitHub](https://github.com "Go to GitHub")
-- :zap: Check my [Resume]([https://github.com](https://drive.google.com/drive/folders/1-Inu3pYgnFXI8BjL_qFs4SQGeWCOeS6g?usp=drive_link) "Check Resume")
+- :man_technologist: All my projects are available below in the profile. [Visit GitHub](https://github.com "Go to GitHub")
+- :zap: [Check my Resume]([https://github.com](https://drive.google.com/drive/folders/1-Inu3pYgnFXI8BjL_qFs4SQGeWCOeS6g?usp=drive_link) "Check Resume")
 
 
 ## Languages and Tools:

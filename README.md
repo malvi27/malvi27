@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Malvika.
-A brief introduction about yourself.
+- :star: A brief introduction about yourself.
 
 ## Languages and Tools:
 <p align="left"> 

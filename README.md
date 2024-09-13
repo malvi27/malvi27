@@ -2,7 +2,7 @@
 <h3 align="center">A pre-final year student at Graphic Era University</h3>
 
 - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/5326421324252895391?bpli=1&pli=1](https://www.blogger.com/blog/posts/5326421324252895391?bpli=1&pli=1)
-
+- 🌱 I’m currently learning **Kotlin and Machine Learning**
 - 💬 Ask me about **Java, C++, Data Structures and Algorithms**
 
 - 📫Reach me at **malvika2701@gmail.com**
